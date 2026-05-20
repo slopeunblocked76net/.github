@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Slope Unblocked 76 avatar</title>
+  <desc id="desc">A dark arcade-style square avatar with green slope lanes, a white ball, and SLOPE 76 text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08111f"/>
+      <stop offset="0.52" stop-color="#10233a"/>
+      <stop offset="1" stop-color="#071018"/>
+    </linearGradient>
+    <linearGradient id="lane" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9cff3b"/>
+      <stop offset="1" stop-color="#00d48f"/>
+    </linearGradient>
+    <radialGradient id="ball" cx="0.36" cy="0.3" r="0.78">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.58" stop-color="#dfe8f2"/>
+      <stop offset="1" stop-color="#8fa6bc"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#000000" flood-opacity="0.42"/>
+    </filter>
+  </defs>
+  <rect width="1024" height="1024" rx="190" fill="url(#bg)"/>
+  <path d="M112 740L430 318c44-59 134-58 177 2l304 420H722L521 454 299 740H112z" fill="#07131f" opacity="0.82"/>
+  <path d="M138 747L457 323c29-39 88-39 116 1l306 423H700L518 490 319 747H138z" fill="url(#lane)" filter="url(#shadow)"/>
+  <path d="M456 370L234 747H132L441 336c21-28 57-40 90-30l-33 42c-16 4-31 11-42 22z" fill="#caff56" opacity="0.92"/>
+  <path d="M579 379l271 368H702L527 498l42-119c3-2 6-1 10 0z" fill="#05b782" opacity="0.88"/>
+  <path d="M481 512L356 747H257L431 470l50 42z" fill="#082238" opacity="0.36"/>
+  <circle cx="548" cy="270" r="112" fill="url(#ball)" filter="url(#shadow)"/>
+  <circle cx="506" cy="228" r="34" fill="#ffffff" opacity="0.82"/>
+  <text x="512" y="840" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="138" font-weight="900" fill="#ffffff" letter-spacing="0">SLOPE</text>
+  <text x="512" y="946" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="124" font-weight="900" fill="#9cff3b" letter-spacing="0">76</text>
+</svg>
